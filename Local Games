@@ -1,5 +1,5 @@
 local Games = {
-  [131623223084840] = "https://raw.githubusercontent.com/slimtrix103125/SlimTrix-Development-Scripts/refs/heads/main/Scripts/Escape-Tsunami%20For%20Brainrots!" -- Escape Tsunami For Brainrots
+  [131623223084840] = "https://raw.githubusercontent.com/slimtrix103125/SlimTrix-Development-Scripts/refs/heads/main/Scripts/Escape-Tsunami%20For%20Brainrots!" -- Escape-Tsunami-For-Brainrots
 }
 
 return Games
