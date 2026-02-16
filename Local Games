@@ -1,0 +1,5 @@
+local Games = {
+  [PlaceID] = "https://raw.githubusercontent.com/" -- Game Script Name
+}
+
+return Games
