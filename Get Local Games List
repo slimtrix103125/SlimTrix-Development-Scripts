@@ -1,0 +1,7 @@
+local Games = loadstring(game:HttpGet("https://raw.githubusercontent.com/slimtrix103125/SlimTrix-Development-Scripts/refs/heads/main/Local%20Games"))()
+
+local URL = Games[game.PlaceId]
+
+if URL then
+  loadstring(game:HttpGet(URL))()
+end
